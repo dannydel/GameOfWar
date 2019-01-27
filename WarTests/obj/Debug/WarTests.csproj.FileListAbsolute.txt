@@ -1,0 +1,7 @@
+C:\Users\ddelg\Desktop\C# Projects\WarTime\WarTests\bin\Debug\WarTests.dll
+C:\Users\ddelg\Desktop\C# Projects\WarTime\WarTests\bin\Debug\WarTests.pdb
+C:\Users\ddelg\Desktop\C# Projects\WarTime\WarTests\bin\Debug\WarTime.exe
+C:\Users\ddelg\Desktop\C# Projects\WarTime\WarTests\bin\Debug\WarTime.pdb
+C:\Users\ddelg\Desktop\C# Projects\WarTime\WarTests\obj\Debug\WarTests.csprojResolveAssemblyReference.cache
+C:\Users\ddelg\Desktop\C# Projects\WarTime\WarTests\obj\Debug\WarTests.dll
+C:\Users\ddelg\Desktop\C# Projects\WarTime\WarTests\obj\Debug\WarTests.pdb

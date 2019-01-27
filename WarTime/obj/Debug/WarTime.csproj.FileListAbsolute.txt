@@ -1,0 +1,6 @@
+C:\Users\ddelg\Desktop\C# Projects\WarTime\WarTime\bin\Debug\WarTime.exe.config
+C:\Users\ddelg\Desktop\C# Projects\WarTime\WarTime\bin\Debug\WarTime.exe
+C:\Users\ddelg\Desktop\C# Projects\WarTime\WarTime\bin\Debug\WarTime.pdb
+C:\Users\ddelg\Desktop\C# Projects\WarTime\WarTime\obj\Debug\WarTime.csprojResolveAssemblyReference.cache
+C:\Users\ddelg\Desktop\C# Projects\WarTime\WarTime\obj\Debug\WarTime.exe
+C:\Users\ddelg\Desktop\C# Projects\WarTime\WarTime\obj\Debug\WarTime.pdb
