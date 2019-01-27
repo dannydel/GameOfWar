@@ -117,6 +117,7 @@ namespace WarTime.Game
 
         private static void PrintHandCounts(Hand player1Hand, Hand player2Hand)
         {
+            Console.WriteLine("Cards Left:");
             Console.WriteLine(string.Format("Player 1 Cards: {0}", player1Hand.Cards.Count));
             Console.WriteLine(string.Format("Player 2 Cards: {0}", player2Hand.Cards.Count));
             Console.WriteLine();
@@ -144,7 +145,6 @@ namespace WarTime.Game
         private static void PrintBattleCard(string player, Card card)
         {
             Console.WriteLine(string.Format("{0} played: {1}", player, card.Face));
-            Console.WriteLine();
         }
     }
 
